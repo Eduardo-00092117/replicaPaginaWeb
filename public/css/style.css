@@ -18,10 +18,12 @@ body{
     text-align: center;
     overflow: hidden;   
     height: 80vh;
+    background-color: #474758;
 }
 
 video{
     position: absolute;
+    opacity: .6;
 }
 
 h1{
